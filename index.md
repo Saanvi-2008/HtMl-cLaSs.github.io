@@ -1,22 +1,16 @@
 Welcome to learn web designing
 
-You can use the [editor on GitHub](https://github.com/Saanvi-2008/HtMl-cLaSs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Learn Like A Boss!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+So you will be learning these in the course
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Basics
+## Tables, images, hyperlinks, etc.
+### CSS
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- The meeting link is shared below
+- https://meet.google.com/dme-jysf-xnh
 
 1. Numbered
 2. List
