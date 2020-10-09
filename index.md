@@ -16,11 +16,11 @@ So you will be learning these in the course
 
 **Teacher's name: Vaani** and _Timings: 4:00-4:30_ and `Days: Monday, Tuesday` text
 
-[Link](https://meet.google.com/nfi-nwen-ohy) and ![](src)
+[Link](https://meet.google.com/nfi-nwen-ohy) and ![img.jpg](src)
 ```
 
 
 
-### Contact no.:+91 90354 92979
+**### Contact no.:+91 90354 92979
 This class is the best!!
-Smart art ruless!!!!!!!!!
+Smart art ruless!!!!!!!!!**
